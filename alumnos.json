@@ -1,0 +1,7 @@
+[
+  { nombre: "Juan", apellido: "Pérez", carrera: "Informatica", cuenta: "412158497" },
+    { nombre: "María", apellido: "López", carrera: "Agricola", cuenta: "318452687" },
+    { nombre: "Carlos", apellido: "Sánchez", carrera: "Medicina", cuenta: "418965237" },
+    {nombre: "Juan", apellido: "Pérez", carrera: "Informatica", cuenta: "412158497"},
+    {nombre: "Sofía", apellido: "Fernández", carrera: "Arquitectura", cuenta: "419658742"}
+]
